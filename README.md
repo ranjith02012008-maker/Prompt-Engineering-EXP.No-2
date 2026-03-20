@@ -1,3 +1,4 @@
+
 EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
 
 AIM:
@@ -23,3 +24,4 @@ Your goal is to determine which combination of prompting technique + platform pr
 OUTPUT:
 
 RESULT:
+The experiment shows that prompt design significantly affects AI output quality. Among the tested combinations, Role-based prompting on ChatGPT produced the most accurate, coherent, and easy-to-understand summaries for undergraduate students.
